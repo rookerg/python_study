@@ -123,7 +123,7 @@ temp = "한글은 " + temp
 # temp='한글은 가나다라'
 
 temp = "가나다라"
-temp = "한글은 %s" % temp
+temp = "한글은 %s" % (temp)
 # temp='한글은 가나다라'
 
 temp = "가나다라"
